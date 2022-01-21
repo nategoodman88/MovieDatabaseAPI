@@ -1,4 +1,4 @@
-# DatabaseAPI
+# Movie Database API
 A Flask API application to interfact with a MySQL Database filled with the Blu Rays I own. 
 
 Database is hosted on AWS RDS
