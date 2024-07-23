@@ -1,7 +1,7 @@
 # Movie Database API
 
 
-*Currently taken offline due to AWS costs. I am looking for alternative hosting
+*Currently taken offline due to AWS costs
 
 
 A Flask API application to interfact with a MySQL Database filled with the Blu Rays I own
